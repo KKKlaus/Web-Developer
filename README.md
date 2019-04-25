@@ -49,6 +49,7 @@ I implemented a shopping site based on React that I totally learned from this cl
 * Click Cart Icon to go to Cart Page
 * The navigation bar is still there, if you already added some products, you can see items in your cart
 * You can remove the item when click "Remove" button, and it will change the count in Cart Icon
+* You can see the total price of your cart, the "checkout" button is disable
 
 ### Item Detail Page
 * Click Item Image to go to the detail Page
@@ -56,9 +57,14 @@ I implemented a shopping site based on React that I totally learned from this cl
 * Click title in navigation bar to go to other pages
   
 ### Others
-* In case of your computer or browser can not show image(so you can not click icon to go to other pages) You can just commented out the code after Line 570 in /src/App.css, I also set some button to make pages connections
+* In case of your computer or browser can not show image(so you can not click icon to go to other pages) You can just commented out the code after Line 600 in /src/App.css, I also set some button to make pages connections
 * The users data will be retained even if you logout, so if you added your shopping items to your cart, you can see them again in next logedin
 
+## Future:(Time reason, my project is not perfect enough)
+* Side Menu
+* Select count of product and change the subtotal
+* Checkout part
+* UI
 
 ## Some Thoughts
 * As a web rookie at first, I think I have learned lots of knowledge from this class and asking question with the professor Brett Ritter. Right now I have known many web skills. Thank you so much!
