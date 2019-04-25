@@ -25,7 +25,7 @@ I implemented a shopping site based on React that I totally learned from this cl
 ## Interface introduction
 
 ### Login
-* The first interface is Login
+* The first interface is Login, for convenience, If you think registration is too much trouble, I set an account for you: username: "test", password: "test"
 * You should create an account to login, if there is no text in username and password input box, or username does not match password, The page will display an error red message
 
 ### Register
@@ -61,6 +61,7 @@ I implemented a shopping site based on React that I totally learned from this cl
 * The users data will be retained even if you logout, so if you added your shopping items to your cart, you can see them again in next logedin
 
 ## Future:(Time reason, my project is not perfect enough)
+* Password visible
 * Side Menu
 * Select count of product and change the subtotal
 * Checkout part
