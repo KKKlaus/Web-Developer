@@ -37,6 +37,6 @@ I implemented a shopping site based on React that I totally learned from this cl
 * If you successfully create an account, you can go to Home page by enter correct username and password and click LOGIN button
 * In home page, you can see 7 shopping items listed which was created in /server/shopping.js, I have not finished post product part now yet, but I am working on that
 * There is a black navigation bar on the top of the home page. There are 5 parts in navigation bar:
-** Side menu: Well, I did not do this :)
-**
+1. Side menu: Well, I did not do this :)
+2.
 
