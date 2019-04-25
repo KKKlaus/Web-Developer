@@ -37,8 +37,8 @@ I implemented a shopping site based on React that I totally learned from this cl
 * If you successfully create an account, you can go to Home page by enter correct username and password and click LOGIN button
 * In home page, you can see 7 shopping items listed which was created in /server/shopping.js, I have not finished post product part now yet, but I am working on that
 * There is a black navigation bar(every page will have one) on the top of the home page. There are 5 parts in navigation bar:
-  (1) Side menu: Well, I did not do this part :)
-  (2) Home/Readme/Contact/Others: If you are at other pages, you can easily go back to home page by click it. Other parts will       lead you to other pages
+  -(1) Side menu: Well, I did not do this part :)
+  -(2) Home/Readme/Contact/Others: If you are at other pages, you can easily go back to home page by click it. Other parts will       lead you to other pages
   (3) Search Icon(only in home page to make a search): When you move your cursor over this icon, the navigation bar will show.       You can type the text to make a search(by click search icon or type "Enter")
   (4) Cart Icon: Go to Cart page by clicking it. And You can see how many shopping items you already added to your cart
   (5) Shutdown Icon: Logout and go back to Login page
