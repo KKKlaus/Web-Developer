@@ -70,3 +70,8 @@ I implemented a shopping site based on React that I totally learned from this cl
 ## Some Thoughts
 * As a web rookie at first, I think I have learned lots of knowledge from this class and asking question with the professor Brett Ritter. Right now I have known many web skills. Thank you so much!
 * BTW, Though I have talked with professor and listed some reasons. I want to say it again :) Hope professor can put me under TA consideration.
+
+## Contact
+* Slack: Zihao Lin
+* Email: klauslin666@gmail.com
+* Phone: 206-953-1689
