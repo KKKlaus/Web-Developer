@@ -1,0 +1,20 @@
+1. Make a page consisting of 9 "LockButton" components in a 3x3 grid
+
+2. Make LockButton output a button with a number.  Number them 1-9
+3. Make LockButton automatically have a className of 'lock-button'
+4. Make LockButton take in a className prop and have it work
+5. ...while still having 'lock-button'
+
+6. Wrap all the buttons in a single Lock component
+7. Have Lock output each button number to console when pressed
+
+8. Add a single "Reset" button to Lock
+9. Have Lock display the series of numbers clicked until 4 are clicked, then show no more until "Reset" is clicked
+
+10. The Lock will display "Locked" or "Unlocked".
+11. It starts Locked.
+12. It is unlocked when the right 4-digit code is entered.
+
+
+
+

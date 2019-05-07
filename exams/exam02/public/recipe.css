@@ -1,0 +1,92 @@
+.RecipeImg {
+	margin-left: auto; 
+    margin-right:auto; 
+    display:block;
+    height: 250px;
+}
+.homepageAdd button{
+  margin-left: auto; 
+  margin-right:auto; 
+  display:block;
+  background-color: #17B7EE;
+  color: white;
+  padding: 5px 15px;
+  font-size: 20px;
+}
+
+.title {
+  margin-top: 5px;
+  margin-left: auto; 
+  margin-right:auto; 
+  display:block;
+  font-size: 20px;
+  padding-left: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.ingredients {
+  margin-top: 5px;
+  margin-left: auto; 
+  margin-right:auto; 
+  display:block;
+  font-size: 20px;
+  padding-left: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;	
+}
+
+.instructions {
+  margin-top: 5px;
+  margin-left: auto; 
+  margin-right:auto; 
+  display:block;	
+  font-size: 20px;
+  padding-left: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;	
+}
+
+.add button {
+  margin-top: 10px;
+  margin-left: auto; 
+  margin-right:auto; 
+  display:block;
+  background-color: #17B7EE;
+  color: white;
+  padding: 5px 15px;
+  font-size: 20px;	
+}
+
+.return button {
+  margin-top: 5px;
+  margin-left: auto; 
+  margin-right:auto; 
+  display:block;
+  background-color: #17B7EE;
+  color: white;
+  padding: 5px 15px;
+  font-size: 20px;	
+}
+
+.ErrorMes {
+  text-align: center;
+  margin-top: 5px;
+  margin-right:auto; 
+  display: block;
+  font-size: 20px;
+  color: red;
+}
+
+.recipe {
+	font-size: 20px;
+}
+
+.recipes{
+  list-style: none;
+  text-align: center;
+}
+
+.Details {
+	text-align: center;
+}

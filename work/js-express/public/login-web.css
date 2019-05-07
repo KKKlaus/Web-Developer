@@ -1,0 +1,32 @@
+.container {
+	background-color: #17EEA3;
+	padding-top: 20px;
+	padding-left: 150px;
+	padding-bottom: 20px;
+}
+
+.title {
+	color: white;
+}
+
+.login {
+	margin-top: 50px;
+	margin-left: 500px;
+}
+
+input.to-login {
+  -web-kit-appearance:none;
+  -moz-appearance: none;
+  font-size:1.0em;
+  height:2.0em;
+}
+
+button.loginButton {
+	background-color: #17B7EE;
+	padding: 10px 30px;
+	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    color: white;
+}

@@ -1,0 +1,35 @@
+1) Make a new directory
+2) setup an express server
+3) make 'public/' your static asset directory
+
+4) Make the page load CSS
+5) Make the page load a client-side JS script
+
+6) Write a 3x3 grid to #root using JS
+- give it some space to look good
+- it will later display a character (X or O)
+- You can put in some random X and O just to see what it looks like
+- DO NOT USE A TABLE
+- DO NOT USE FLOAT
+
+7) Have a data model that you can use to GENERATE the html.
+8) ...generate the HTML from that data.
+
+9) Write a REST service that gives you the board data
+10) fetch that service and populate the board
+
+11) Add a status area to the HTML
+12) Update it when an error occurs
+
+13) Make it so that clicking a square fills it with an 'X'
+-- don't worry about the model yet, just update the square
+
+14) Make it so that clicking a square updates the model 
+-- so you need to store the model before drawing the board
+
+15) Write a service that takes IN a board and checks for a winner
+-- return if someone one, or if tie
+-- return WHO won
+-- this can be one or multiple fields, your choice
+
+16) Announce who has won (or if it is a Tie)!
