@@ -1,0 +1,85 @@
+body {
+	background-color: #73808E;
+}
+
+.guessImage {
+	display: block;
+	height: 120px;
+	margin-left: 260px;
+}
+
+.guess-app {
+	background-color: white;
+	margin-top: 50px;
+	margin-left: 300px;
+	margin-right: 300px;
+	border: 2px solid black;
+	border-radius: 15px;
+	box-shadow: 5px 5px #040405;
+	height: 400px;
+	width: 800px;
+}
+
+.display-panel {
+	display: flex;
+	flex-direction: row;
+}
+
+.wordslist {
+	height: 190px;
+	width: 200px;
+	border: 2px solid black;
+	border-left: 0px;
+	padding-left: 50px;
+	padding-top: 10px;
+	overflow: scroll;
+}
+
+.guessedList {
+	height: 200px;
+	width: 600px;
+	border: 2px solid black;
+	border-left: 0px;
+	border-right: 0px;
+	text-align: center;
+	overflow: scroll;
+}
+
+.outgoing {
+	margin-left: 10px;
+}
+
+.to-guess {
+	margin-left: 250px;
+	height: 30px;
+	width: 200px;
+	font-size: 15px;
+	margin-bottom: 20px;
+}
+
+.guessButton {
+	height: 40px;
+	width: 80px;
+	background-color: #2AD596;
+	color: white;
+	font-size: 20px;
+	border-style: outset;
+}
+
+.count {
+	font-size: 25px;
+}
+
+span.count {
+	color: blue;
+}
+
+.replayButton {
+	height: 40px;
+	width: 80px;
+	background-color: red;
+	color: white;
+	font-size: 20px;
+	border-style: outset;
+	margin-left: 700px;
+}

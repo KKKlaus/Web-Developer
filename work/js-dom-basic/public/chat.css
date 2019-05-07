@@ -1,0 +1,171 @@
+body {
+  background-color: #899096;
+}
+
+#chat-app { 
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px #303335;
+  margin: 100px 250px;
+  max-height: 75vh;
+}
+
+.display-panel { 
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.users { 
+  border-right: 1px solid black;
+  background-color: #494C4F;
+  list-style: square;
+  color: white;
+  padding: 5px 30px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 150%;
+  margin: 0;
+  overflow-y: scroll;
+}
+
+.messages { 
+  width: 100%;
+  background-color: white;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  overflow-y: scroll;
+}
+
+.messages li {
+  border-bottom: 1px solid black;
+}
+
+.messages li:last-child { 
+  border-bottom: 0px;
+}
+
+.message { 
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+}
+
+.message:hover { 
+  background-color: #BADA55;
+}
+
+.meta-info { 
+  min-width: 100px;
+  padding: 5px;
+}
+
+.message-text { 
+  padding-left: 10px;
+  width: 100%;
+}
+
+.sender-info { 
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.message-info {
+  width: 300px;
+  font-size: 10px;
+  color: #D0D6DB;
+}
+.message-text { 
+  border-radius: 7px;
+  border: 2px solid black;
+  width: 440px;
+  height: 50px;
+  text-align: center;
+  box-shadow: 5px 5px 5px #888888;
+  font-size: 20px;
+}
+
+.outgoing { 
+  min-height: 20px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.logout { 
+  position: absolute;
+  right: 15px;
+  top: 15px;
+}
+
+.logout button {
+  background-color: #17B7EE;
+  padding: 9px 19px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  color: white;
+}
+
+.outgoing .send { 
+  flex: 1 1 auto;
+}
+
+.outgoing .send button {
+  background-color: #17B7EE;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  color: white;
+}
+
+.outgoing .refresh { 
+  flex: 0 0 0;
+}
+
+.outgoing .refresh button {
+  background-color: #17B7EE;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  color: white;
+}
+
+
+.to-send { 
+  width: 80%;
+  font-size: 15px;
+}
+
+.login {
+  background-color: #D0E7EE;
+}
+
+.login input {
+  -web-kit-appearance:none;
+  -moz-appearance: none;
+  margin-left: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size:1.0em;
+  height:2.0em;
+}
+
+.login button {
+  background-color: #17B7EE;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  color: white;
+}
+
