@@ -1,4 +1,4 @@
-# Final Project - Shopping Site : Created by Zihao Lin
+# Final Project - Shopping Site
 
 ## Summary
 I implemented a shopping site based on React that I totally learned from this class. The front and end logic is also based on it. The project satisfied all requirements that can demonstrate the best practices and be usable by multiple users simultaneously
@@ -61,18 +61,8 @@ I implemented a shopping site based on React that I totally learned from this cl
 * The users data will be retained even if you logout, so if you added your shopping items to your cart, you can see them again in next logedin
 
 ## Future:(Time reason, my project is not perfect enough)
-* Password visible
 * Other pages except for home page
 * Side Menu
 * Select count of product and change the subtotal
 * Checkout part
-* UI
-
-## Some Thoughts
-* As a web rookie at first, I think I have learned lots of knowledge from this class and asking question with the professor Brett Ritter. Right now I have known many web skills. Thank you so much!
-* BTW, Though I have talked with professor and listed some reasons. I want to say it again :) Hope professor can put me under TA consideration.
-
-## Contact
-* Slack: Zihao Lin
-* Email: klauslin666@gmail.com
-* Phone: 206-953-1689
+* better UI
